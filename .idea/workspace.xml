@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a88e3be-bc6a-48dd-83fb-f2a0e3cc9e5d" name="Changes" comment="fix" />
+    <list default="true" id="4a88e3be-bc6a-48dd-83fb-f2a0e3cc9e5d" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_debug_check.py.executor": "Debug",
-    "Python tests.Python tests in test_print_first_three_assessment_ids_ui.py.executor": "Debug",
-    "Python.hjghjgjg.executor": "Debug",
-    "Python.test_print_first_three_assessment_ids_ui.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_debug_check.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests in test_print_first_three_assessment_ids_ui.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.hjghjgjg.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.test_print_first_three_assessment_ids_ui.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests in test_print_first_three_assessment_ids_ui.py">
     <configuration name="test_debug_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="automation-cymulate" />
@@ -100,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_debug_check.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in C:/Users/User/PycharmProjects/automation-cymulate/tests/test_debug_check.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="automation-cymulate" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +136,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in test_print_first_three_assessment_ids_ui.py" />
-        <item itemvalue="Python tests.Python tests in test_debug_check.py" />
+        <item itemvalue="Python tests.Python tests in C:/Users/User/PycharmProjects/automation-cymulate/tests/test_debug_check.py" />
         <item itemvalue="Python.test_debug_check" />
         <item itemvalue="Python.test_print_first_three_assessment_ids_ui" />
       </list>
@@ -163,7 +166,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1744636469714</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="fix">
+      <option name="closed" value="true" />
+      <created>1744640621166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1744640621166</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
