@@ -13,5 +13,5 @@ class ILoginPageUi(ABC):
         pass
 
     @abstractmethod
-    def click_on_login_btn(self) -> Self:
+    def click_on_sign_in_btn(self) -> Self:
         pass

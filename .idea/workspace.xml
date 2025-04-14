@@ -4,44 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94fd385b-87ad-4ab4-aa8b-4e35522ddef6" name="Changes" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.idea/automation-control-up.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automation-cymulate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="b6ef422c-1f9e-4c10-88af-5f96fa0fb55c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/test_print_first_three_assessment_ids_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/automation-cymulate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automation-cymulate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/infra/dal/api_access/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/infra/utils/enums/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/infra/dal/api_access/api_accsess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/infra/dal/data_reposetory/data_rep.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/infra/dal/data_reposetory/data_rep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/infra/utils/assert_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/data_classes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/infra/utils/enums/filter_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/data_classes/airport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/objects/objects_ui/filters_page_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_api/airport_gap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_api/interfaceses/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/objects/objects_ui/interfaceses/filters_page_ui_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_api/interfaceses/airports_gap_interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_ui/interfaceses/login_page_ui_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/objects/objects_ui/interfaceses/login_page_ui_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_ui/interfaceses/products_page_ui_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/objects/objects_ui/interfaceses/activity_logs_page_ui_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_ui/login_page_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/objects/objects_ui/login_page_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_ui/products_page_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/objects/objects_ui/activity_logs_page_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_verify_add_item_to_cart_ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_verify_airports_count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_verify_distance_between_airports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_verify_inventory_items_count_ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_verify_specific_airports.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lior277"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lior277&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lior277/ControlUp.git",
-    "accountId": "5f82f56d-fd63-447a-9d57-3bf1cbf5f993"
-  }
-}]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2vUtXFjgtUvIGAI2jZpgvnhSEg9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lior277/automation-cymulate.git&quot;,
+    &quot;accountId&quot;: &quot;5f82f56d-fd63-447a-9d57-3bf1cbf5f993&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2viUjB17fO4KZbvW3FhcXxOhNk6" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,28 +63,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python tests.pytest in test.py.executor": "Run",
-    "Python tests.pytest in test_verify_add_item_to_cart_ui.py.executor": "Run",
-    "Python tests.pytest in test_verify_airports_count.py.executor": "Run",
-    "Python tests.pytest in test_verify_distance_between_airports.py.executor": "Run",
-    "Python tests.pytest in test_verify_inventory_items_count_ui.py.executor": "Run",
-    "Python tests.pytest in test_verify_specific_airports.py.executor": "Run",
-    "Python tests.pytest in tests.executor": "Run",
-    "Python tests.pytest in verify_add_item_to_cart_ui.py.executor": "Run",
+    "Python tests.Python tests in test_print_first_three_assessment_ids_ui.py.executor": "Run",
+    "Python tests.pytest in test_print_first_three_assessment_ids_ui.py.executor": "Debug",
+    "Python.test_print_first_three_assessment_ids_ui.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/automation-control-up/tests"
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/automation-cymulate",
+    "settings.editor.selected.configurable": "pyconsole"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\PycharmProjects\automation-control-up\tests" />
-    </key>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportGeventDebugging" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest in tests">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python tests.Python tests in test_print_first_three_assessment_ids_ui.py">
+    <configuration name="test_print_first_three_assessment_ids_ui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="automation-cymulate" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_print_first_three_assessment_ids_ui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,89 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="automation-cymulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="automation-cymulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="automation-cymulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="automation-cymulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <module name="automation-cymulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_verify_add_item_to_cart_ui.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_print_first_three_assessment_ids_ui.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="automation-cymulate" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,88 +110,38 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_verify_add_item_to_cart_ui.py&quot;" />
+      <option name="_new_additionalArguments" value="&quot;-s&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_print_first_three_assessment_ids_ui.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_verify_distance_between_airports.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_print_first_three_assessment_ids_ui.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="automation-cymulate" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.13 (automation-cymulate)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\User\PycharmProjects\automation-cymulate" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_verify_distance_between_airports.py&quot;" />
+      <option name="_new_additionalArguments" value="&quot;-s&quot;" />
+      <option name="_new_target" value="&quot;C:\\Users\\User\\PycharmProjects\\automation-cymulate\\tests\\test_print_first_three_assessment_ids_ui.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_verify_inventory_items_count_ui.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="automation-cymulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_verify_inventory_items_count_ui.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_verify_specific_airports.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="automation-cymulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_verify_specific_airports.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in tests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="automation-cymulate" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.test_print_first_three_assessment_ids_ui" />
+      <item itemvalue="Python tests.pytest in test_print_first_three_assessment_ids_ui.py" />
+      <item itemvalue="Python tests.Python tests in test_print_first_three_assessment_ids_ui.py" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in tests" />
-        <item itemvalue="Python tests.pytest in test_verify_inventory_items_count_ui.py" />
-        <item itemvalue="Python tests.pytest in test_verify_add_item_to_cart_ui.py" />
-        <item itemvalue="Python tests.pytest in test_verify_distance_between_airports.py" />
-        <item itemvalue="Python tests.pytest in test_verify_specific_airports.py" />
+        <item itemvalue="Python tests.Python tests in test_print_first_three_assessment_ids_ui.py" />
+        <item itemvalue="Python.test_print_first_three_assessment_ids_ui" />
       </list>
     </recent_temporary>
   </component>
@@ -279,113 +155,33 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="94fd385b-87ad-4ab4-aa8b-4e35522ddef6" name="Changes" comment="" />
-      <created>1744211519424</created>
+      <changelist id="b6ef422c-1f9e-4c10-88af-5f96fa0fb55c" name="Changes" comment="" />
+      <created>1744627523880</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1744211519424</updated>
+      <updated>1744627523880</updated>
     </task>
-    <task id="LOCAL‎-00001" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744215997643</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL‎-00001" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744215997643</updated>
-    </task>
-    <task id="LOCAL‎-00002" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744216934492</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL‎-00002" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744216934492</updated>
-    </task>
-    <task id="LOCAL‎-00003" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744218987276</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL‎-00003" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744218987276</updated>
-    </task>
-    <task id="LOCAL‎-00004" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744221327350</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL‎-00004" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744221327350</updated>
-    </task>
-    <task id="LOCAL‎-00005" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744221418686</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL‎-00005" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744221418686</updated>
-    </task>
-    <task id="LOCAL‎-00006" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744221624979</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL‎-00006" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744221624979</updated>
-    </task>
-    <task id="LOCAL‎-00007" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744262761467</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL‎-00007" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744262761467</updated>
-    </task>
-    <task id="LOCAL‎-00008" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744263835714</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL‎-00008" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744263835714</updated>
-    </task>
-    <task id="LOCAL‎-00009" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744272081510</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL‎-00009" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744272081510</updated>
-    </task>
-    <task id="LOCAL‎-00010" summary="fix">
-      <option name="closed" value="true" />
-      <created>1744611234459</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL‎-00010" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1744611234459</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/test_verify_add_item_to_cart_ui.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/infrastructure/objects/objects_ui/filters_page_ui.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/infrastructure/objects/objects_ui/activity_logs_page_ui.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/infrastructure/objects/objects_ui/login_page_ui.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="tests">
-        <watch expression="distance.data.attributes.kilometers" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

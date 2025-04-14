@@ -10,9 +10,9 @@ class LoginPageUi(ILoginPageUi):
         self.__driver = driver
 
         # locators
-        self.__user_name_ext = (By.CSS_SELECTOR, "input[id='user-name']")
-        self.__password_ext = (By.CSS_SELECTOR, "input[id='password']")
-        self.__login_btn_ext = (By.CSS_SELECTOR, "input[id='login-button']")
+        self.__user_name_ext = (By.CSS_SELECTOR, "input[test-id='email']")
+        self.__password_ext = (By.CSS_SELECTOR, "input[test-id='password']")
+        self.__login_btn_ext = (By.CSS_SELECTOR, "button[test-id='sign-in']")
 
     def set_user_name(self, user_name: str):
         DriverEX.send_keys_auto(self.__driver, self.__user_name_ext, user_name)
@@ -22,6 +22,6 @@ class LoginPageUi(ILoginPageUi):
         DriverEX.send_keys_auto(self.__driver, self.__password_ext, password)
         return self
 
-    def click_on_login_btn(self):
+    def click_on_sign_in_btn(self):
         DriverEX.force_click(self.__driver, self.__login_btn_ext)
         return self
