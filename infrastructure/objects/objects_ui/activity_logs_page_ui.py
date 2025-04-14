@@ -1,6 +1,5 @@
 import sys
 import time
-from time import sleep
 
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.by import By
