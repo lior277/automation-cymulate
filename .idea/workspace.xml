@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a88e3be-bc6a-48dd-83fb-f2a0e3cc9e5d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/automation-cymulate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automation-cymulate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/objects/objects_ui/activity_logs_page_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/objects/objects_ui/activity_logs_page_ui.py" afterDir="false" />
-    </list>
+    <list default="true" id="4a88e3be-bc6a-48dd-83fb-f2a0e3cc9e5d" name="Changes" comment="fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,10 +44,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_debug_check.py.executor": "Debug",
+    "Python tests.Python tests in test_print_first_three_assessment_ids_ui.py.executor": "Debug",
     "Python.hjghjgjg.executor": "Debug",
     "Python.test_print_first_three_assessment_ids_ui.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
   }
@@ -153,18 +155,31 @@
       <option name="presentableId" value="Default" />
       <updated>1744635817823</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="fix">
+      <option name="closed" value="true" />
+      <created>1744636469714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1744636469714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/infrastructure/objects/objects_ui/activity_logs_page_ui.py</url>
-          <line>41</line>
+          <line>39</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/hjghjgjg.py</url>
+          <url>file://$PROJECT_DIR$/tests/test_debug_check.py</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
